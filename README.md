@@ -1,0 +1,2 @@
+# Fraud-Credit-Card-Transaction-Detector-using-Machine-Learning
+Due to the ongoing pandemic, there is a sudden boom in the E-commerce industry and hence many online sites have increased the online payment modes, increasing the risk for online frauds. Increase in fraud rates, researchers started using different machine learning methods to detect and analyse frauds in online transactions. The main aim of the project is to design and develop a fraud detection model based on the given Dataset.
